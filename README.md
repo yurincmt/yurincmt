@@ -19,11 +19,3 @@
               +@@@+++++          @@@@@@@@+         Instagram: yurincmt
                 +@@@@@@          @@@@@@+           
                    ****          ****              
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurincmt&rank_icon=github&hide=stars&show_icons=true&show=prs_merged&theme=dark&hide_border=true"/>
-    <img width="350" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurincmt&theme=dark&layout=compact&hide_border=true&hide=tex"/>
-</div>
-
-
-## Some Projects
