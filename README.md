@@ -19,3 +19,10 @@
               +@@@+++++          @@@@@@@@+         Instagram: yurincmt
                 +@@@@@@          @@@@@@+           
                    ****          ****              
+---
+
+| Projeto           | Descrição                                                | Tecnologias           | Link                                           |
+|-------------------|----------------------------------------------------------|-----------------------|------------------------------------------------|
+| Projeto 1         | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA| Python, Flask         | [imhere](https://github.com/seuusuario/projeto1) |
+| Projeto 2         | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA| JavaScript, React     | [json-parser](https://github.com/seuusuario/projeto2) |
+| Projeto 3         | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA| Shell Script          | [wc (word count)](https://github.com/seuusuario/projeto3) |
