@@ -1,10 +1,11 @@
+        $ ghfetch
 
                      ******@@******                
                  ++@@@@@@@@@@@@@@@@@@++            
                +@@@@@@@@@@@@@@@@@@@@@@@@+          yurincmt 
              +@@@@@@@@@@@@@@@@@@@@@@@@@@@@+        -------- 
            +@@@@@+++@@@@@@@@@@@@@@@++++@@@@@+      Uptime: 23y
-          +@@@@@@     +++      +++     @@@@@@+     Programmin Languages: C, Python, Shell
+          +@@@@@@     +++      +++     @@@@@@+     Programming Languages: C, Python, Shell
          +@@@@@@@                      @@@@@@@+    OS: Debian/Fedora
          @@@@@@@+                      +@@@@@@@    DE: Gnome
         @@@@@@@@                        @@@@@@@@   Shell: Bash
